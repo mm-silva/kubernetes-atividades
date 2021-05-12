@@ -6,7 +6,7 @@ Se quiser criar o cluster nuvem Kubernetes com Terraform é opcional.
 
 ## Comandos importantes para o funcionamento:
 
-git clone https://github.com/mm-silva/atividade-kubernetes.git
+git clone https://github.com/mm-silva/kubernetes-atividades.git
 
 cd atividade-kubernetes/terraform/
 
