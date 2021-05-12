@@ -8,7 +8,7 @@ Se quiser criar o cluster nuvem Kubernetes com Terraform é opcional.
 
 git clone https://github.com/mm-silva/kubernetes-atividades.git
 
-cd atividade-kubernetes/terraform/
+cd kubernetes-atividades/terraform/
 
 terraform init
 
